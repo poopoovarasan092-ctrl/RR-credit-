@@ -1,0 +1,1 @@
+Vite serves public assets from the public folder.

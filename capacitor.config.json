@@ -1,0 +1,6 @@
+{
+  "appId": "in.rrmobiles.credit",
+  "appName": "RR Credit",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
