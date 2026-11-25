@@ -50,6 +50,10 @@ jobs:
       - name: Sync Android
         run: npx cap sync android
 
+              - name: Apply RR Credit launcher icon
+        run: |
+          cp -R android-icon-res/. android/app/src/main/res/
+
       - name: Build APK
         run: |
           cd android
